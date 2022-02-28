@@ -134,7 +134,7 @@ If you like to contribute to the repo to a larger extent, please do not hesitate
 
 # Credits
 The lecture notes are inspired by
-* [Richard S. Sutton, Andrew G. Barto, 'Reinforcement Learning: An Introduction' Second Edition MIT Press, Cambridge, MA, 2018](http://www.incompleteideas.net/book/the-book-2nd.html)
+* [Richard S. Sutton, Andrew NG. Barto, 'Reinforcement Learning: An Introduction' Second Edition MIT Press, Cambridge, MA, 2018](http://www.incompleteideas.net/book/the-book-2nd.html)
 * [David Silver, UCL Course on Reinforcement Learning, 2015](https://www.davidsilver.uk/teaching/)
 
 The tutorials are partly using pre-packed environments from
